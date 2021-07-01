@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<!--
+
 **Danielamoateng1989/Danielamoateng1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...danielamoateng81@yahoo.com
 - 😄 Pronouns: ...He/Him
--->
+
