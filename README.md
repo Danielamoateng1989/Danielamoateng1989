@@ -5,8 +5,8 @@
 
 ## Developer!!
 
-- 🌱 I’m currently learning everything
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning everything blockchain technology
+- 🥅 2022 Goals: Build more web3 projects
 - ⚡ Fun fact: I founded a startup
 
 ### Connect with me:
