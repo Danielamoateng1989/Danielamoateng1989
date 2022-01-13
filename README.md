@@ -1,7 +1,7 @@
 
 
 
-### Hi there, I'm Danny - https://www.danielamoateng.dev/
+### Hi there, I'm Danny!
 
 ## Developer!!
 
@@ -36,3 +36,5 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
+###Some Project I'm currently working on
+Danny: A react personal portfolio site that talks about me and my personal projects:  https://www.danielamoateng.dev/
