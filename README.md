@@ -38,4 +38,4 @@
 <br />
 
 
-Danny: A react personal portfolio site that talks about me and my personal projects:  https://www.danielamoateng.dev/
+ https://www.danielamoateng.dev/
