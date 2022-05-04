@@ -5,7 +5,7 @@
 
 https://www.danielamoateng.dev/
 
-## Software Engineer
+## Software Developer
 
 - 🌱 I’m currently learning everything blockchain technology
 - 🥅 2022 Goals: Collaborate on open source projects
